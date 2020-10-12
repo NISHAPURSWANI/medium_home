@@ -10,11 +10,16 @@
 
 <style lang="less">
 #app {
-  font-family: Avenir, Helvetica, Arial, sans-serif;
+  // font-family: Avenir, Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   // text-align: center;
   // color: #2c3e50;
+    margin: 0 64px;
+
+
+      font-family: "Times New Roman", Times, serif;
+
 }
 
 // #nav {
